@@ -1,0 +1,3 @@
+theme: jekyll-theme-minimal
+title: Container dependencies from "kaspi/di-container"
+description: PSR-11 compatible dependency injection container for PHP with automatic dependency bundling
