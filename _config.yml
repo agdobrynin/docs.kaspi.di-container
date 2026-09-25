@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: PSR-11 compatible dependency injection container for PHP with automatic dependency bundling
+plugins:
+  - jekyll-polyglot
