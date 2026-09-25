@@ -2,3 +2,9 @@ theme: jekyll-theme-minimal
 title: PSR-11 compatible dependency injection container for PHP with automatic dependency bundling
 plugins:
   - jekyll-polyglot
+languages: ["en", "ru"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "public", "sitemap", "CNAME"]
+parallel_localization: true
+serial_default_lang: true
+url: https://agdobrynin.github.io/docs.kaspi.di-container
