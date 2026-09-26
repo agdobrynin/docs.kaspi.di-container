@@ -9,4 +9,10 @@ default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "public", "sitemap", "CNAME"]
 parallel_localization: true
 serial_default_lang: true
-url: https://agdobrynin.github.io/docs.kaspi.di-container
+url: https://github.com/agdobrynin/di-container
+show_downloads: false
+github:
+  owner_url: https://github.com/agdobrynin
+  repository_name: kaspi/di-container
+  is_project_page: true
+  repository_url: https://github.com/agdobrynin/di-container
